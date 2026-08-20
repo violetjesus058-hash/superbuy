@@ -1,15 +1,15 @@
 ---
 layout: home
-title: 'USFans Spreadsheet 2026 | USFans Finds and Category Guides'
-description: 'Explore USFans Spreadsheet 2026 through organized USFans finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
-category: USFans Spreadsheet
+title: 'Superbuy Spreadsheet 2026 | Superbuy Finds and Category Guides'
+description: 'Explore Superbuy Spreadsheet 2026 through organized Superbuy finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
+category: Superbuy Spreadsheet
 keywords:
-- USFans Spreadsheet 2026
-- USFans Spreadsheet
-- USFans finds
+- Superbuy Spreadsheet 2026
+- Superbuy Spreadsheet
+- Superbuy finds
 tags:
-- USFans Spreadsheet 2026
-- USFans Finds
+- Superbuy Spreadsheet 2026
+- Superbuy Finds
 - Fashion Discovery
 - Category Guides
 updated: '2026-08-14T00:00:00Z'
