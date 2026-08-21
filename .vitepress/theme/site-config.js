@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'Superbuy Spreadsheet 2026 - Superbuy Finds, Category Guides and Product Research',
     description: 'Explore Superbuy Spreadsheet 2026 through organized Superbuy finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['superbuy spreadsheet 2026', 'superbuy spreadsheet', 'superbuy finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-9WJTE8DY0P',
+    ga4: 'G-12X4V0WC40',
   },
 
   // ---- Announcement Bar ----
